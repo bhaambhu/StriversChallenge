@@ -4,7 +4,7 @@ from sys import *
 from os import *
 
 from typing import List
-from sanjay import *
+from s import *
 
 def setZeros(matrix: List[List[int]]) -> None:
 	# Write your code here.
